@@ -1,6 +1,7 @@
 # my_app
 
-A new Flutter project.
+A first Flutter project.
+[![CircleCI](https://circleci.com/gh/franck-noahk/my_flutter_first_app/tree/master.svg?style=svg)](https://circleci.com/gh/franck-noahk/my_flutter_first_app/tree/master)
 
 ## Getting Started
 
